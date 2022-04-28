@@ -1,29 +1,10 @@
 # json-schema-form
 
-## Project setup
-```
-yarn install
-```
+## JsonSchema
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+JsonSchema 是用来描述 JSON 数据格式，一般使用 JsonSchema 来进行 JSON 数据格式验证。
 
-### Compiles and minifies for production
-```
-yarn build
-```
+> [JsonSchema 草案](https://json-schema.org/)
+>
+> [JSON schema validator](https://ajv.js.org/)
 
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
