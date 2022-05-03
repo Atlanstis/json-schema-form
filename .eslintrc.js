@@ -20,6 +20,7 @@ module.exports = {
     //强制不使用分号结尾
     semi: ['error', 'never'],
     'space-before-function-paren': 0,
+    '@typescript-eslint/no-explicit-any': ['off'],
   },
   overrides: [
     {
